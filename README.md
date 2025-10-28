@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jean Ol'Bar 🚀  
+iz# 👋 Olá, eu sou Jean Ol'Bar 🚀  
 **Tech Lead • Cloud Solutions Architect • Full-Stack Engineer**
 
 Atualmente **Head of Technology na Zentriz (zentriz.com.br)**, atuando com visão estratégica de produto, tecnologia e crescimento. Lidero equipes, projeto arquiteturas escaláveis e crio soluções digitais que geram impacto real para o negócio.
@@ -53,7 +53,7 @@ Sou apaixonado por desenvolvimento, inovação e por ajudar pessoas a crescerem 
 
 ## 🌟 Experiência
 
-### 🔹 Head of Technology — reCodando
+### 🔹 Head of Technology — Zentriz
 - Liderança técnica e estratégica
 - Gestão de equipe multidisciplinar
 - Definição de padrões e arquitetura corporativa
