@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Jean Ol'Bar 🚀  
 **Tech Lead • Cloud Solutions Architect • Full-Stack Engineer**
 
-Atualmente **Head of Technology na reCodando**, atuando com visão estratégica de produto, tecnologia e crescimento. Lidero equipes, projeto arquiteturas escaláveis e crio soluções digitais que geram impacto real para o negócio.
+Atualmente **Head of Technology na Zentriz (zentriz.com.br)**, atuando com visão estratégica de produto, tecnologia e crescimento. Lidero equipes, projeto arquiteturas escaláveis e crio soluções digitais que geram impacto real para o negócio.
 
 Sou apaixonado por desenvolvimento, inovação e por ajudar pessoas a crescerem em tecnologia — seja como mentor, líder ou criando conteúdo para a comunidade.
 
