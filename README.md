@@ -1,96 +1,112 @@
-# 👋 Olá, eu sou Jean Ol'Bar 🚀  
-**Tech Lead • Cloud Solutions Architect • Full-Stack Engineer**
+<p align="center">
+  <img src="jeanolbar_banner.png" width="100%" alt="Jean Ol'Bar Banner"/>
+</p>
 
-Atualmente **Head of Technology na Zentriz (zentriz.com.br)**, atuando com visão estratégica de produto, tecnologia e crescimento. Lidero equipes, projeto arquiteturas escaláveis e crio soluções digitais que geram impacto real para o negócio.
+<h1 align="center">👋 Olá, eu sou Jean Ol'Bar 🚀</h1>
+<h3 align="center">Tech Lead • Cloud Solutions Architect • Full-Stack Engineer</h3>
 
-Sou apaixonado por desenvolvimento, inovação e por ajudar pessoas a crescerem em tecnologia — seja como mentor, líder ou criando conteúdo para a comunidade.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-F29100?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=20232A&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
+## 💡 Sobre Mim
+
+Head of Technology na reCodando, atuando com visão estratégica de produto e tecnologia.  
+Lidero times, projeto arquiteturas escaláveis e entrego soluções serverless para o mundo real.
+
+Sou motivado por:
+- Engenharia de software de alto nível
+- Automação e eficiência operacional
+- Criar produtos digitais com impacto real
 
 ---
 
 ## 🧠 Especialidades Técnicas
 
 ### ☁️ Cloud & DevOps
-- AWS (core principal): Lambda, API Gateway, CloudFront, S3, DynamoDB, Secrets Manager, SES…
+- AWS (principal stack): Lambda, API Gateway, CloudFront, S3, DynamoDB, SES, Secrets Manager…
 - Azure e Google Cloud
-- CI/CD com GitHub Actions, CodePipeline e CodeBuild
-- Docker & Docker Compose — pipelines containerizados e orquestração
-- Serverless Framework (YAML/TS)
-- Observabilidade: CloudWatch Logs, Alarms, Tracing
+- CI/CD com GitHub Actions · CodePipeline · CodeBuild
+- Docker & Docker Compose (desenvolvimento e pipelines)
+- Serverless Framework · Observabilidade (CloudWatch)
 
 ---
 
-### 🖥️ Desenvolvimento Full-Stack
-- **Backend:** Node.js + TypeScript + NestJS + Express
-- **Frontend/Mobile:** ReactJS e React Native
-- **Mobile Nativo:** Kotlin (Android) e Swift (iOS)
-- **Python** para automações e ETL
-- **Web3 e Blockchain** (tokens, carteiras, smart integrations)
-- APIs escaláveis distribuídas com versionamento e segurança
+### 🖥️ Full-Stack Engineering
+- Backend: **Node.js + TypeScript + NestJS**
+- Frontend / Mobile: **React & React Native**
+- Android/iOS Nativo: Kotlin & Swift (quando necessário)
+- Python para automações e ETL
+- Web3 / Blockchain: Tokenização e integrações com carteiras
 
 ---
 
 ### 🗄️ Banco de Dados & Modelagem
-- PostgreSQL | MySQL | DynamoDB
-- Sequelize e Drizzle-ORM
-- Multi-tenant com auditoria, triggers e migrations complexas
-- ETL completo (backup → transformação → restore)
-- Governança de dados e otimização de índices
+- PostgreSQL · MySQL · DynamoDB
+- Sequelize · Drizzle-ORM
+- Migrations complexas, auditoria e multi-tenant
+- ETL para reestruturação de bases massivas
 
 ---
 
-### 🧩 Productization & Reutilização
-- Publicação de pacotes privados no NPM / GitHub Packages / CodeArtifact
-- AWS Layers para padronização de regras de negócio
-- Design arquitetural orientado a reuso e escalabilidade
+### 📊 Architecture & Documentation
+- Diagramas com **Mermaid**, Draw.io e Lucidchart
+- OpenAPI/Swagger · Dicionário de Dados
+- Governança técnica e padronização corporativa
 
 ---
 
-### 📊 Diagramas & Documentação
-- Arquiteturas e fluxos com **Mermaid**, draw.io e Lucidchart
-- Dicionário de dados, OpenAPI/Swagger e documentação técnica
+## 🌟 Experiência em Destaque
 
----
-
-## 🌟 Experiência
-
-### 🔹 Head of Technology — Zentriz
+### ✅ Head of Technology — reCodando
 - Liderança técnica e estratégica
-- Gestão de equipe multidisciplinar
-- Definição de padrões e arquitetura corporativa
-- Entrega de soluções com foco em performance e crescimento
+- Definição arquitetural e governança da plataforma
+- Gestão de times multidisciplinares
 
-### 🔹 Mentor de Tecnologia
-- Desenvolvimento de novos talentos
-- Aulas, workshops e orientações em projetos reais
+### ✅ Mentor de Tecnologia
+- Apoio a desenvolvedores em suas carreiras e jornadas
 
-### 🔹 Criador de Conteúdo
-- Artigos, vídeos e materiais educacionais para a comunidade
+### ✅ Criador de Conteúdo
+- Artigos · Tutoriais · Materiais técnicos
 
 ---
 
-## 🔥 Projetos de Destaque
+## 🔥 Projetos de Alto Impacto
 
-| Produto | O que faço nele |
-|--------|----------------|
-| **Zentriz Monitor & Zentriz Mobile Suite** | Observabilidade de dispositivos + publicação mobile comercial |
-| **Escolha o Presente / Vale Presente** | Plataforma de vouchers com split financeiro |
-| **Venuxx API V2** | Solução logística integrada para e-commerce brasileiro |
+| Produto | Descrição |
+|--------|-----------|
+| **Zentriz Monitor & Mobile Suite** | Observabilidade, apps multiplataforma, monetização e branding |
+| **Escolha o Presente / Vale Presente** | Marketplace completo com split financeiro |
+| **Venuxx API V2** | Plataforma logística integrada para e-commerce nacional |
 
-Todos com arquitetura **serverless**, foco em automação e eficiência de custos.
+Arquitetura **serverless**, reuso, automação e custos otimizados ✅
 
 ---
 
-## ✨ Minha missão
+## 📊 Estatísticas do GitHub
 
-> *Tecnologia só vale a pena quando transforma negócios e pessoas.*
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JeanOlBar&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanOlBar&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/JeanOlBar
-- LinkedIn: https://www.linkedin.com/in/JeanOlBar
-- Email: **[adicione aqui]**
+📌 LinkedIn: https://www.linkedin.com/in/JeanOlBar  
+📌 GitHub: https://github.com/JeanOlBar  
+📌 Email: **[adicione aqui]**
 
-Se quiser trocar ideias, colaborar em projetos ou criar algo incrível — me chama! 🚀  
-E se curtir algum projeto, deixa ⭐ no repositório 😄
+> Vamos construir algo incrível juntos? 🚀  
+> Se curtir algum projeto, deixa ⭐ — sua contribuição faz toda diferença!
