@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jeanolbar_banner.png" width="100%" alt="Jean Ol'Bar Banner"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFLGkhmrI-KSA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1677804197859?e=1762992000&v=beta&t=c8uiIHtwQN3uJf0u4N9uOFodwrvY17pe4-ee_P1utHk" width="100%" alt="Jean Ol'Bar Banner"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Jean Ol'Bar 🚀</h1>
