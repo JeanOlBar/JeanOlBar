@@ -21,7 +21,7 @@
 
 ## 💡 Sobre Mim
 
-Head of Technology na reCodando, atuando com visão estratégica de produto e tecnologia.  
+Head of Technology na Zentriz, atuando com visão estratégica de produto e tecnologia.  
 Lidero times, projeto arquiteturas escaláveis e entrego soluções serverless para o mundo real.
 
 Sou motivado por:
@@ -68,7 +68,7 @@ Sou motivado por:
 
 ## 🌟 Experiência em Destaque
 
-### ✅ Head of Technology — reCodando
+### ✅ Head of Technology — Zentriz
 - Liderança técnica e estratégica
 - Definição arquitetural e governança da plataforma
 - Gestão de times multidisciplinares
